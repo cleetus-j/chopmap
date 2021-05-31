@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "chopmap": {
+      "commandName": "Project",
+      "commandLineArgs": "bg_intro.png.nam",
+      "workingDirectory": "C:\\devver\\Gazdalkodj_okosan\\graphics_raw\\intro_tileset\\"
+    }
+  }
+}
